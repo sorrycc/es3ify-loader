@@ -1,0 +1,15 @@
+{
+  "name": "es3ify-loader",
+  "version": "0.1.0",
+  "description": "ES3ify loader for webpack.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorrycc/es3ify-loader"
+  },
+  "homepage": "https://github.com/sorrycc/es3ify-loader",
+  "author": "chencheng <sorrycc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "es3ify": "^0.1.4"
+  }
+}
