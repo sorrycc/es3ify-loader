@@ -8,7 +8,7 @@ ES3ify loader for webpack.
 ----
 
 ## Install
-
+For webpack 1.x use version 0.x. For webpack 2.x and 3.x use version 1.x.
 ```bash
 $ npm i es3ify-loader --save
 ```
